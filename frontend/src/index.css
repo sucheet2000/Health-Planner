@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.error-border {
+  border-color: #ef4444 !important;
+}
+
+.warning-box {
+  background-color: #fef3c7;
+  border: 2px solid #f59e0b;
+}
+
+.success-box {
+  background-color: #d1fae5;
+  border: 2px solid #10b981;
+}
